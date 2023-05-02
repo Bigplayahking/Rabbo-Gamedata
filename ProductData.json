@@ -2,6 +2,181 @@
   "productdata": {
     "product": [
 	  {
+        "code": "easter_c23_battery",
+        "name": "Oplaadbatterijen",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_bigbattery",
+        "name": "Grote Oplaadbarebatterij",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_books",
+        "name": "Stapel Tweedehands Boeken",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_bookshelf",
+        "name": "Tweedehands Boekenrek",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_bunnyarchway",
+        "name": "Bunny Boog",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_bunnychia",
+        "name": "Bunny Chia",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_bunnycraftbot",
+        "name": "Bunny Craft Bot",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_ceilingpipes",
+        "name": "Blootgestelde Pijpleidingen",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_chocoegg",
+        "name": "Verrukkelijk Chocolade Ei",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_cosyhammock",
+        "name": "Solarpunk Hang mat",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_craftbotcrackable",
+        "name": "Slapende Bunny Bot",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_decotable",
+        "name": "Gerecycleerde Tafel",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_floor",
+        "name": "Terracotta Tegel Mix",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_flowerlamp",
+        "name": "Solar Bloemen Lamp",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_greenhousewall",
+        "name": "Groot Broeikasraam",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_hanginglight",
+        "name": "Hangende Gloeilamp",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_oasisterrarium",
+        "name": "Oase Terrarium",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_pileofclothes",
+        "name": "Stapel Oude Kleren",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_pileofmixedfood",
+        "name": "Gezonde Overschotjes",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_pileofoldtech",
+        "name": "Kapotte Hardware",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_pipedivider",
+        "name": "Blootgestelde Pijpleidingenverdeler",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_plantwall",
+        "name": "Plantenrek van Pijpleidingen",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_recylingbin",
+        "name": "Bunny Prullenbak",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_recylingbinb",
+        "name": "Bunny Prullenbak (non-crackable)",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_robobird",
+        "name": "Robot Vogel",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_robobunny",
+        "name": "Robot Bunny",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_robocat",
+        "name": "Robot Kat",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_solarbox",
+        "name": "Solar Power Box",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_solarboxb",
+        "name": "easter_c23_solarboxb name",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_solarenergy",
+        "name": "Zonne Energie",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_solarpunkcomputer",
+        "name": "Solarpunk Computer",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_sunlightwindow",
+        "name": "Zonlicht Dakraam",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_upcycledstool",
+        "name": "Upcycled Wheelie Kruk",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_upcycledtable",
+        "name": "Upcycled Wheelie Tafel",
+        "description": ""
+      },
+      {
+        "code": "easter_c23_wateringbot",
+        "name": "Bewatering Bot",
+        "description": ""
+      },
+	  {
         "code": "jp_c23_flowerpillow",
         "name": "Sakura Bloemetjes Kussen",
         "description": ""

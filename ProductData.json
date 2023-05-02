@@ -2,6 +2,31 @@
   "productdata": {
     "product": [
 	  {
+        "code": "easter_ltd23_steampunkhabberge",
+        "name": "Steampunk Habberge Egg",
+        "description": ""
+      },
+	  {
+        "code": "easter_r23_bunnymech_bd",
+        "name": "Mecha Bunny",
+        "description": ""
+      },
+      {
+        "code": "easter_r23_bunnymech",
+        "name": "Mecha Bunny",
+        "description": ""
+      },
+      {
+        "code": "easter_r23_bunnypod_bd",
+        "name": "Bunny Slaapcapsule",
+        "description": ""
+      },
+      {
+        "code": "easter_r23_bunnypod",
+        "name": "Bunny Slaapcapsule",
+        "description": ""
+      },
+	  {
         "code": "easter_c23_battery",
         "name": "Oplaadbatterijen",
         "description": ""
